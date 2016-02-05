@@ -1,0 +1,12 @@
+{
+  "name": "helloworld_electron",
+  "version": "1.0.0",
+  "description": "helloworld",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/electron .",
+    "build": "node build.js"
+  },
+  "author": "lv7777",
+  "license": "MPL-2.0"
+}
